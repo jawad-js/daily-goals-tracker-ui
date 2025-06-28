@@ -1,0 +1,16 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+
+h3 {
+    margin: 20px 0;
+    font-size: 22px;
+}
+ #goalcard {
+        margin-bottom: 45px;
+        font-size: 18px;
+ }
